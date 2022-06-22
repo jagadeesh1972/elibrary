@@ -1,0 +1,20 @@
+{
+  "name": "e-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohnishDevaraj/E-Library.git"
+  },
+  "author": "mohnish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohnishDevaraj/E-Library/issues"
+  },
+  "homepage": "https://github.com/MohnishDevaraj/E-Library#readme"
+}
